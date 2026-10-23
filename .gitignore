@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local datasets and generated notebook outputs
+data/
+outputs/
+reports/
+*.csv
+*.xlsx
